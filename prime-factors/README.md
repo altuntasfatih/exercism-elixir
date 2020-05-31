@@ -36,6 +36,30 @@ Execute the tests with:
 ```bash
 $ mix test
 ```
+## Test result
+Compiling 1 file (.ex)
+Excluding tags: [:pending]
+
+
+PrimeFactorsTest
+  * test 901255 (0.00ms)
+  * test 10000000055 (0.6ms)
+  * test 8 (0.00ms)
+  * test 2 (0.00ms)
+  * test 3 (0.00ms)
+  * test 4 (0.00ms)
+  * test 6 (0.00ms)
+  * test 9 (0.00ms)
+  * test 625 (0.00ms)
+  * test 93819012551 (0.3ms)
+  * test 1 (0.00ms)
+  * test 27 (0.00ms)
+
+
+Finished in 0.03 seconds
+12 tests, 0 failures
+
+Randomized with seed 240565
 
 ### Pending tests
 
