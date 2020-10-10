@@ -187,6 +187,7 @@ defmodule SieveTest do
   test "primes to 100_000" do
     assert List.first(Sieve.primes_to(100_000)) == 2
   end
+
   test "primes to 1_000_000" do
     assert List.first(Sieve.primes_to(1_000_000)) == 2
   end
