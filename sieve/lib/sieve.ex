@@ -5,30 +5,17 @@ defmodule Sieve do
   @spec primes_to(non_neg_integer) :: [non_neg_integer]
   def primes_to(limit) do
     Enum.to_list(2..limit)
-    |> iterate([], :math.sqrt(limit) |> trunc)
+    |> sieve(limit, [])
     |> Enum.reverse()
   end
 
-  def iterate([head | tail], acc, limit) when head <= limit do
-    filter(tail, head)
-    |> iterate([head | acc], limit)
-  end
+  def sieve([], _, acc), do: acc
 
-  def iterate(list, acc, _), do: Enum.reverse(list) ++ acc
+  def sieve([n | tail], limit, acc) do
+    multiples =
+      Stream.iterate(n * n, fn x -> x + n end)
+      |> Enum.take_while(&(&1 <= limit))
 
-  def filter(acc, number) do
-     Enum.filter(acc, fn x -> rem(x, number) != 0 end)
-    #{_, result} = filter(acc, number)
-    #Enum.reverse(result)
-  end
-
-  def filter(acc, number) do
-    Enum.reduce(acc, {1, []}, fn x, {f, a} ->
-      if x == number * f do
-        {f + 1, a}
-      else
-        {f, [x | a]}
-      end
-    end)
+    sieve(tail -- multiples, limit, [n | acc])
   end
 end
