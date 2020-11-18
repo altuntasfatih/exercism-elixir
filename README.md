@@ -1,5 +1,45 @@
-# Solution of exercism elixir practices
+# Solutions of Exercism elixir practices
 [Exercism](https://exercism.io) is a platform which offers code practices and mentorship for everyone. <br/>
 I have followed elixir track and I have almost completed all practices for it. <br/>
 
-[My profile](https://exercism.io/profiles/altuntasfatih)
+Exercises
+ * [Accumulate](https://github.com/altuntasfatih/exercism-elixir/tree/master/accumulate)
+ * [Acronym](https://github.com/altuntasfatih/exercism-elixir/tree/master/acronym)
+ * [All-your-base](https://github.com/altuntasfatih/exercism-elixir/tree/master/all-your-base)
+ * [Allergies](https://github.com/altuntasfatih/exercism-elixir/tree/master/allergies)
+ * [Anagram](https://github.com/altuntasfatih/exercism-elixir/tree/master/anagram)
+ * [Armstrong-numbers](https://github.com/altuntasfatih/exercism-elixir/tree/master/armstrong-numbers)
+ * [Bank-account](https://github.com/altuntasfatih/exercism-elixir/tree/master/bank-account)
+ * [Beer-song](https://github.com/altuntasfatih/exercism-elixir/tree/master/beer-song)
+ * [Binary](https://github.com/altuntasfatih/exercism-elixir/tree/master/binary)
+ * [Binary-search](https://github.com/altuntasfatih/exercism-elixir/tree/master/binary-search)
+ * [Bob](https://github.com/altuntasfatih/exercism-elixir/tree/master/bob)
+ * [Bowling](https://github.com/altuntasfatih/exercism-elixir/tree/master/bowling)
+ * [Change](https://github.com/altuntasfatih/exercism-elixir/tree/master/change)
+ * [Clock](https://github.com/altuntasfatih/exercism-elixir/tree/master/clock)
+ * [Collatz-conjecture](https://github.com/altuntasfatih/exercism-elixir/tree/master/collatz-conjecture)
+ * [Crypto-square](https://github.com/altuntasfatih/exercism-elixir/tree/master/crypto-square)
+ * [Custom-set](https://github.com/altuntasfatih/exercism-elixir/tree/master/custom-set)
+ * [Diamond](https://github.com/altuntasfatih/exercism-elixir/tree/master/diamond)
+ * [Diffie-hellman](https://github.com/altuntasfatih/exercism-elixir/tree/master/diffie-hellman)
+ * [Dnd-character](https://github.com/altuntasfatih/exercism-elixir/tree/master/Dnd-character)
+ * [Etl](https://github.com/altuntasfatih/exercism-elixir/tree/master/etl)
+ * [Flatten-array](https://github.com/altuntasfatih/exercism-elixir/tree/master/flatten-array)
+ * [Forth](https://github.com/altuntasfatih/exercism-elixir/tree/master/forth)
+ * [Gigasecond](https://github.com/altuntasfatih/exercism-elixir/tree/master/gigasecond)
+ * [Grade-school](https://github.com/altuntasfatih/exercism-elixir/tree/master/grade-school)
+ * [Grains](https://github.com/altuntasfatih/exercism-elixir/tree/master/grains)
+ * [Hamming](https://github.com/altuntasfatih/exercism-elixir/tree/master/hamming) 
+ * [Hello-world](https://github.com/altuntasfatih/exercism-elixir/tree/master/hello-world) 
+ * [Hexadecimal](https://github.com/altuntasfatih/exercism-elixir/tree/master/hexadecimal)
+ * [Isbn-verifier](https://github.com/altuntasfatih/exercism-elixir/tree/master/isbn-verifier) 
+ * [Isogram](https://github.com/altuntasfatih/exercism-elixir/tree/master/isogram) 
+ * [Kindergarten-garden](https://github.com/altuntasfatih/exercism-elixir/tree/master/kindergarten-garden) 
+ * [Largest-series-product](https://github.com/altuntasfatih/exercism-elixir/tree/master/largest-series-product) 
+ * [Leap](https://github.com/altuntasfatih/exercism-elixir/tree/master/leap) 
+ * [List-ops](https://github.com/altuntasfatih/exercism-elixir/tree/master/list-ops) 
+ * [Luhn](https://github.com/altuntasfatih/exercism-elixir/tree/master/luhn) 
+
+ 
+
+[**Detail**](https://exercism.io/profiles/altuntasfatih)
