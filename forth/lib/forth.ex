@@ -68,22 +68,24 @@ defmodule Forth do
   end
 
   @spec evaluate([any], any) :: any
-  def evaluate([{:integer, data} | tail], ev) do
+  defp evaluate([], acc), do: acc
+
+  defp evaluate([{:integer, data} | tail], ev) do
     evaluate(tail, %Forth{ev | stack: [data | ev.stack]})
   end
 
-  def evaluate([{:define, key, data} | tail], ev) do
+  defp evaluate([{:define, key, data} | tail], ev) do
     evaluate(tail, %Forth{ev | words: Map.put(ev.words, key, data)})
   end
 
-  def evaluate([{:word, key} | tail], ev) do
+  defp evaluate([{:word, key} | tail], ev) do
     case Map.get(ev.words, key) do
       nil -> raise(Forth.UnknownWord)
       word -> evaluate(word ++ tail, ev)
     end
   end
 
-  def evaluate([{:instruction, i} | tail], ev) do
+  defp evaluate([{:instruction, i} | tail], ev) do
     case i do
       "+" -> evaluate(tail, %Forth{ev | stack: add(ev.stack)})
       "-" -> evaluate(tail, %Forth{ev | stack: sub(ev.stack)})
@@ -96,8 +98,6 @@ defmodule Forth do
     end
   end
 
-  def evaluate([], acc), do: acc
-
   defp add([b | [a | t]]), do: [a + b | t]
   defp sub([b | [a | t]]), do: [a - b | t]
   defp multiply([b | [a | t]]), do: [a * b | t]
@@ -109,7 +109,6 @@ defmodule Forth do
   defp drop([_ | t]), do: t
   defp swap(stack) when length(stack) < 2, do: raise(Forth.StackUnderflow)
   defp swap([b | [a | t]]), do: [a | [b | t]]
-
   defp over(stack) when length(stack) < 2, do: raise(Forth.StackUnderflow)
   defp over([_ | [a | _]] = stack), do: [a | stack]
 
