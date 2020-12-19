@@ -2,15 +2,15 @@ defmodule SpiralTest do
   use ExUnit.Case
 
   test "1 dimension" do
-    assert Spiral.matrix(1) == [{0, 0}]
+    assert Spiral.spiral_iterate(1) == [{0, 0}]
   end
 
   test "2 dimension" do
-    assert Spiral.matrix(2) == [{0, 0}, {0, 1}, {1, 1}, {1, 0}]
+    assert Spiral.spiral_iterate(2) == [{0, 0}, {0, 1}, {1, 1}, {1, 0}]
   end
 
   test "3 dimension" do
-    assert Spiral.matrix(3) == [
+    assert Spiral.spiral_iterate(3) == [
              {0, 0},
              {0, 1},
              {0, 2},
@@ -24,7 +24,7 @@ defmodule SpiralTest do
   end
 
   test "4 dimension" do
-    assert Spiral.matrix(4) == [
+    assert Spiral.spiral_iterate(4) == [
              {0, 0},
              {0, 1},
              {0, 2},
@@ -45,7 +45,7 @@ defmodule SpiralTest do
   end
 
   test "5 dimension" do
-    result = Spiral.matrix(5)
+    result = Spiral.spiral_iterate(5)
     assert length(result) == 25
 
     assert result == [
@@ -78,7 +78,7 @@ defmodule SpiralTest do
   end
 
   test "6 dimension" do
-    result = Spiral.matrix(6)
+    result = Spiral.spiral_iterate(6)
     assert length(result) == 36
 
     assert result == [
@@ -121,17 +121,14 @@ defmodule SpiralTest do
            ]
   end
 
-  @tag :pending
   test "empty spiral" do
     assert Spiral.matrix(0) == []
   end
 
-  @tag :pending
   test "trivial spiral" do
     assert Spiral.matrix(1) == [[1]]
   end
 
-  @tag :pending
   test "spiral of side length 2" do
     assert Spiral.matrix(2) == [
              [1, 2],
@@ -139,7 +136,6 @@ defmodule SpiralTest do
            ]
   end
 
-  @tag :pending
   test "spiral of side length 3" do
     assert Spiral.matrix(3) == [
              [1, 2, 3],
@@ -148,7 +144,6 @@ defmodule SpiralTest do
            ]
   end
 
-  @tag :pending
   test "spiral of side length 4" do
     assert Spiral.matrix(4) == [
              [1, 2, 3, 4],
@@ -158,7 +153,6 @@ defmodule SpiralTest do
            ]
   end
 
-  @tag :pending
   test "spiral of size 5" do
     assert Spiral.matrix(5) == [
              [1, 2, 3, 4, 5],

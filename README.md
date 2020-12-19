@@ -76,6 +76,7 @@ Exercises
  * [Simple-cipher](https://github.com/altuntasfatih/exercism-elixir/tree/master/simple-cipher)
  * [Simple-linked-list](https://github.com/altuntasfatih/exercism-elixir/tree/master/simple-linked-list)
  * [Space-age](https://github.com/altuntasfatih/exercism-elixir/tree/master/space-age)
+ * [Spiral-matrix](https://github.com/altuntasfatih/exercism-elixir/tree/master/spiral-matrix)
  * [Strain](https://github.com/altuntasfatih/exercism-elixir/tree/master/strain)
  * [Sublist](https://github.com/altuntasfatih/exercism-elixir/tree/master/sublist)
  * [Sum-of-multiples](https://github.com/altuntasfatih/exercism-elixir/tree/master/sum-of-multiples)
