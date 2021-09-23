@@ -35,10 +35,7 @@ defmodule DominoesTest do
 
   @tag :pending
   test "need backtrack" do
-    # a variation in which we have to turn but no duplicates
     assert Dominoes.chain?([{1, 2}, {2, 3}, {3, 1}, {2, 4}, {2, 4}]) == true
-
-
   end
 
   test "separate loops" do
