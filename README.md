@@ -48,6 +48,7 @@ Exercises
  * [Nth-prime](https://github.com/altuntasfatih/exercism-elixir/tree/master/nth-prime)
  * [Nucleotide-count](https://github.com/altuntasfatih/exercism-elixir/tree/master/nucleotide-count)
  * [Ocr-numbers](https://github.com/altuntasfatih/exercism-elixir/tree/master/ocr-numbers)
+ * [Pacman-rules](https://github.com/altuntasfatih/exercism-elixir/tree/master/pacman-rules)
  * [Palindrome-products](https://github.com/altuntasfatih/exercism-elixir/tree/master/palindrome-products)
  * [Pangram](https://github.com/altuntasfatih/exercism-elixir/tree/master/pangram)
  * [Parallel-letter-frequency](https://github.com/altuntasfatih/exercism-elixir/tree/master/parallel-letter-frequency)
