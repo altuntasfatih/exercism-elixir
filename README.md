@@ -41,6 +41,7 @@ Exercises
  * [Largest-series-product](https://github.com/altuntasfatih/exercism-elixir/tree/master/largest-series-product) 
  * [Leap](https://github.com/altuntasfatih/exercism-elixir/tree/master/leap) 
  * [List-ops](https://github.com/altuntasfatih/exercism-elixir/tree/master/list-ops) 
+*  [Log-level](https://github.com/altuntasfatih/exercism-elixir/tree/master/log-level) 
  * [Markdown](https://github.com/altuntasfatih/exercism-elixir/tree/master/markdown) 
  * [Matching-brackets](https://github.com/altuntasfatih/exercism-elixir/tree/master/matching-brackets) 
  * [Matrix](https://github.com/altuntasfatih/exercism-elixir/tree/master/matrix)
