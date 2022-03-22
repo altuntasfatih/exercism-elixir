@@ -31,6 +31,7 @@ Exercises
  * [Gigasecond](https://github.com/altuntasfatih/exercism-elixir/tree/master/gigasecond)
  * [Grade-school](https://github.com/altuntasfatih/exercism-elixir/tree/master/grade-school)
  * [Grains](https://github.com/altuntasfatih/exercism-elixir/tree/master/grains)
+ * [Guessing-game](https://github.com/altuntasfatih/exercism-elixir/tree/master/guessing-game)
  * [Hamming](https://github.com/altuntasfatih/exercism-elixir/tree/master/hamming) 
  * [Hello-world](https://github.com/altuntasfatih/exercism-elixir/tree/master/hello-world) 
  * [Hexadecimal](https://github.com/altuntasfatih/exercism-elixir/tree/master/hexadecimal)
