@@ -7,8 +7,5 @@ defmodule LanguageList do
   def count([], acc), do: acc
   def count([_ | t], acc), do: count(t, acc + 1)
 
-  def exciting_list?(list), do: exciting_list?(list, "Elixir")
-  def exciting_list?([], _), do: false
-  def exciting_list?([language | _], language), do: true
-  def exciting_list?([_ | t], language), do: exciting_list?(t, language)
+  def exciting_list?(list), do: "Elixir" in list
 end
