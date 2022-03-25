@@ -35,6 +35,7 @@ Exercises
  * [Hamming](https://github.com/altuntasfatih/exercism-elixir/tree/master/hamming) 
  * [Hello-world](https://github.com/altuntasfatih/exercism-elixir/tree/master/hello-world) 
  * [Hexadecimal](https://github.com/altuntasfatih/exercism-elixir/tree/master/hexadecimal)
+ * [High-school-sweetheart](https://github.com/altuntasfatih/exercism-elixir/tree/master/high-school-sweetheart)
  * [Isbn-verifier](https://github.com/altuntasfatih/exercism-elixir/tree/master/isbn-verifier) 
  * [Isogram](https://github.com/altuntasfatih/exercism-elixir/tree/master/isogram) 
  * [Kitchen-calculator](https://github.com/altuntasfatih/exercism-elixir/tree/master/kitchen-calculator)
