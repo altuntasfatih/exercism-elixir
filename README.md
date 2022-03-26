@@ -14,6 +14,7 @@ Exercises
  * [Beer-song](https://github.com/altuntasfatih/exercism-elixir/tree/master/beer-song)
  * [Binary](https://github.com/altuntasfatih/exercism-elixir/tree/master/binary)
  * [Binary-search](https://github.com/altuntasfatih/exercism-elixir/tree/master/binary-search)
+ * [Bird-count]((https://github.com/altuntasfatih/exercism-elixir/tree/master/bird-count)
  * [Bob](https://github.com/altuntasfatih/exercism-elixir/tree/master/bob)
  * [Bowling](https://github.com/altuntasfatih/exercism-elixir/tree/master/bowling)
  * [Change](https://github.com/altuntasfatih/exercism-elixir/tree/master/change)
