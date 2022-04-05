@@ -19,6 +19,7 @@ Exercises
  * [Bowling](https://github.com/altuntasfatih/exercism-elixir/tree/master/bowling)
  * [Change](https://github.com/altuntasfatih/exercism-elixir/tree/master/change)
  * [Clock](https://github.com/altuntasfatih/exercism-elixir/tree/master/clock)
+ * [City-office](https://github.com/altuntasfatih/exercism-elixir/tree/master/city-office)
  * [Collatz-conjecture](https://github.com/altuntasfatih/exercism-elixir/tree/master/collatz-conjecture)
  * [Crypto-square](https://github.com/altuntasfatih/exercism-elixir/tree/master/crypto-square)
  * [Custom-set](https://github.com/altuntasfatih/exercism-elixir/tree/master/custom-set)
