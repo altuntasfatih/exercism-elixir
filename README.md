@@ -30,6 +30,7 @@ Exercises
  * [Freelancer-rates](https://github.com/altuntasfatih/exercism-elixir/tree/master/freelancer-rates)
  * [Flatten-array](https://github.com/altuntasfatih/exercism-elixir/tree/master/flatten-array)
  * [Forth](https://github.com/altuntasfatih/exercism-elixir/tree/master/forth)
+ * [German-sysadmin](https://github.com/altuntasfatih/exercism-elixir/tree/master/german-sysadmin)
  * [Gigasecond](https://github.com/altuntasfatih/exercism-elixir/tree/master/gigasecond)
  * [Grade-school](https://github.com/altuntasfatih/exercism-elixir/tree/master/grade-school)
  * [Grains](https://github.com/altuntasfatih/exercism-elixir/tree/master/grains)
