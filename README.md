@@ -23,6 +23,7 @@ Exercises
  * [Collatz-conjecture](https://github.com/altuntasfatih/exercism-elixir/tree/master/collatz-conjecture)
  * [Crypto-square](https://github.com/altuntasfatih/exercism-elixir/tree/master/crypto-square)
  * [Custom-set](https://github.com/altuntasfatih/exercism-elixir/tree/master/custom-set)
+ * [Date-parser](https://github.com/altuntasfatih/exercism-elixir/tree/master/date-parser)
  * [Diamond](https://github.com/altuntasfatih/exercism-elixir/tree/master/diamond)
  * [Diffie-hellman](https://github.com/altuntasfatih/exercism-elixir/tree/master/diffie-hellman)
  * [Dnd-character](https://github.com/altuntasfatih/exercism-elixir/tree/master/Dnd-character)
