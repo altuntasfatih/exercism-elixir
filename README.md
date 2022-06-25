@@ -96,6 +96,7 @@ Exercises
  * [Strain](https://github.com/altuntasfatih/exercism-elixir/tree/master/strain)
  * [Sublist](https://github.com/altuntasfatih/exercism-elixir/tree/master/sublist)
  * [Sum-of-multiples](https://github.com/altuntasfatih/exercism-elixir/tree/master/sum-of-multiples)
+ * [Take-a-number](https://github.com/altuntasfatih/exercism-elixir/tree/master/take-a-number)
  * [Tournament](https://github.com/altuntasfatih/exercism-elixir/tree/master/tournament)
  * [Triangle](https://github.com/altuntasfatih/exercism-elixir/tree/master/triangle)
  * [Twelve-days](https://github.com/altuntasfatih/exercism-elixir/tree/master/twelve-days)
