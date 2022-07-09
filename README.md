@@ -103,6 +103,7 @@ Exercises
  * [Two-fer](https://github.com/altuntasfatih/exercism-elixir/tree/master/two-fer)
  * [Word-count](https://github.com/altuntasfatih/exercism-elixir/tree/master/word-count)
  * [Wordy](https://github.com/altuntasfatih/exercism-elixir/tree/master/wordy)
+ * [Wine-cellar](https://github.com/altuntasfatih/exercism-elixir/tree/master/wine-cellar)
  * [Zipper](https://github.com/altuntasfatih/exercism-elixir/tree/master/zipper)
  
 
