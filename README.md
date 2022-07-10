@@ -26,6 +26,7 @@ Exercises
  * [Date-parser](https://github.com/altuntasfatih/exercism-elixir/tree/master/date-parser)
  * [Diamond](https://github.com/altuntasfatih/exercism-elixir/tree/master/diamond)
  * [Diffie-hellman](https://github.com/altuntasfatih/exercism-elixir/tree/master/diffie-hellman)
+ * [Dna-encoding](https://github.com/altuntasfatih/exercism-elixir/tree/master/dna-encoding)
  * [Dnd-character](https://github.com/altuntasfatih/exercism-elixir/tree/master/Dnd-character)
  * [Etl](https://github.com/altuntasfatih/exercism-elixir/tree/master/etl)
  * [Freelancer-rates](https://github.com/altuntasfatih/exercism-elixir/tree/master/freelancer-rates)
