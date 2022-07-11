@@ -50,6 +50,7 @@ Exercises
  * [Language-list](https://github.com/altuntasfatih/exercism-elixir/tree/master/language-list) 
  * [Largest-series-product](https://github.com/altuntasfatih/exercism-elixir/tree/master/largest-series-product) 
  * [Leap](https://github.com/altuntasfatih/exercism-elixir/tree/master/leap) 
+ * [Library-fees](https://github.com/altuntasfatih/exercism-elixir/tree/master/library-fees) 
  * [List-ops](https://github.com/altuntasfatih/exercism-elixir/tree/master/list-ops) 
  * [Log-level](https://github.com/altuntasfatih/exercism-elixir/tree/master/log-level) 
  * [Markdown](https://github.com/altuntasfatih/exercism-elixir/tree/master/markdown) 
