@@ -11,6 +11,7 @@ Exercises
  * [Atbash-cipher](https://github.com/altuntasfatih/exercism-elixir/tree/master/atbash-cipher)
  * [Armstrong-numbers](https://github.com/altuntasfatih/exercism-elixir/tree/master/armstrong-numbers)
  * [Bank-account](https://github.com/altuntasfatih/exercism-elixir/tree/master/bank-account)
+ * [Basketball-website](https://github.com/altuntasfatih/exercism-elixir/tree/master/basketball-website)
  * [Beer-song](https://github.com/altuntasfatih/exercism-elixir/tree/master/beer-song)
  * [Binary](https://github.com/altuntasfatih/exercism-elixir/tree/master/binary)
  * [Binary-search](https://github.com/altuntasfatih/exercism-elixir/tree/master/binary-search)
