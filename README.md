@@ -17,6 +17,7 @@ Exercises
  * [Binary-search](https://github.com/altuntasfatih/exercism-elixir/tree/master/binary-search)
  * [Bird-count](https://github.com/altuntasfatih/exercism-elixir/tree/master/bird-count)
  * [Bob](https://github.com/altuntasfatih/exercism-elixir/tree/master/bob)
+ * [Boutique-inventory](https://github.com/altuntasfatih/exercism-elixir/tree/master/boutique-inventory)
  * [Bowling](https://github.com/altuntasfatih/exercism-elixir/tree/master/bowling)
  * [Change](https://github.com/altuntasfatih/exercism-elixir/tree/master/change)
  * [Clock](https://github.com/altuntasfatih/exercism-elixir/tree/master/clock)
