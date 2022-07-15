@@ -61,6 +61,7 @@ Exercises
  * [Matrix](https://github.com/altuntasfatih/exercism-elixir/tree/master/matrix)
  * [Meetup](https://github.com/altuntasfatih/exercism-elixir/tree/master/meetup)
  * [Minesweeper](https://github.com/altuntasfatih/exercism-elixir/tree/master/minesweeper)
+ * [Newsletter](https://github.com/altuntasfatih/exercism-elixir/tree/master/newsletter)
  * [Nth-prime](https://github.com/altuntasfatih/exercism-elixir/tree/master/nth-prime)
  * [Name-badge](https://github.com/altuntasfatih/exercism-elixir/tree/master/name-badge)
  * [Nucleotide-count](https://github.com/altuntasfatih/exercism-elixir/tree/master/nucleotide-count)
