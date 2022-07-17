@@ -20,6 +20,7 @@ Exercises
  * [Boutique-inventory](https://github.com/altuntasfatih/exercism-elixir/tree/master/boutique-inventory)
  * [Bowling](https://github.com/altuntasfatih/exercism-elixir/tree/master/bowling)
  * [Change](https://github.com/altuntasfatih/exercism-elixir/tree/master/change)
+ * [Chessboard](https://github.com/altuntasfatih/exercism-elixir/tree/master/chessboard)
  * [Clock](https://github.com/altuntasfatih/exercism-elixir/tree/master/clock)
  * [City-office](https://github.com/altuntasfatih/exercism-elixir/tree/master/city-office)
  * [Collatz-conjecture](https://github.com/altuntasfatih/exercism-elixir/tree/master/collatz-conjecture)
