@@ -1,6 +1,6 @@
 # Solutions of Exercism elixir practices
-[Exercism](https://exercism.io) is a platform which offers code practices and mentorship for everyone. <br/>
-I have followed elixir track and I have almost completed all practices for it. <br/>
+[Exercism](https://exercism.io) is a platform that offers code practices and mentorship for everyone. <br/>
+I have followed the elixir track and almost completed all practices on it. <br/>
 
 Exercises
  * [Accumulate](https://github.com/altuntasfatih/exercism-elixir/tree/master/accumulate)
@@ -81,6 +81,7 @@ Exercises
  * [Queen-attack](https://github.com/altuntasfatih/exercism-elixir/tree/master/Queen-attack)
  * [Rail-fence-cipher](https://github.com/altuntasfatih/exercism-elixir/tree/master/rail-fence-cipher)
  * [Raindrops](https://github.com/altuntasfatih/exercism-elixir/tree/master/raindrops)
+ * [Remote-control-car](https://github.com/altuntasfatih/exercism-elixir/tree/master/remote-control-car)
  * [Rpg-character-sheet](https://github.com/altuntasfatih/exercism-elixir/tree/master/rpg-character-sheet)
  * [Luhn](https://github.com/altuntasfatih/exercism-elixir/tree/master/luhn)
  * [Resistor-color](https://github.com/altuntasfatih/exercism-elixir/tree/master/resistor-color)
