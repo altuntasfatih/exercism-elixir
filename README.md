@@ -20,6 +20,7 @@ Exercises
  * [Boutique-inventory](https://github.com/altuntasfatih/exercism-elixir/tree/master/boutique-inventory)
  * [Boutique-suggestions/](https://github.com/altuntasfatih/exercism-elixir/tree/master/boutique-suggestions)
  * [Bowling](https://github.com/altuntasfatih/exercism-elixir/tree/master/bowling)
+ * [Bread-and-potions](https://github.com/altuntasfatih/exercism-elixir/tree/master/bread-and-potions)
  * [Change](https://github.com/altuntasfatih/exercism-elixir/tree/master/change)
  * [Chessboard](https://github.com/altuntasfatih/exercism-elixir/tree/master/chessboard)
  * [City-office](https://github.com/altuntasfatih/exercism-elixir/tree/master/city-office)
