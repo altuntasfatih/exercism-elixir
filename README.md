@@ -95,6 +95,7 @@ Exercises
  * [Roman-numerals](https://github.com/altuntasfatih/exercism-elixir/tree/master/roman-numerals)
  * [Rotational-cipher](https://github.com/altuntasfatih/exercism-elixir/tree/master/rotational-cipher)
  * [Rpn-calculator](https://github.com/altuntasfatih/exercism-elixir/tree/master/rpn-calculator)
+ * [Rpn-calculator-inspection](https://github.com/altuntasfatih/exercism-elixir/tree/master/rpn-calculator-inspection)
  * [Run-length-encoding](https://github.com/altuntasfatih/exercism-elixir/tree/master/run-length-encoding)
  * [Say](https://github.com/altuntasfatih/exercism-elixir/tree/master/say)
  * [Scale-generator](https://github.com/altuntasfatih/exercism-elixir/tree/master/scale-generator)
