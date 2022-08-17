@@ -70,6 +70,7 @@ Exercises
  * [Minesweeper](https://github.com/altuntasfatih/exercism-elixir/tree/master/minesweeper)
  * [Need-for-speed](https://github.com/altuntasfatih/exercism-elixir/tree/master/need-for-speed)
  * [Newsletter](https://github.com/altuntasfatih/exercism-elixir/tree/master/newsletter)
+ * [New-passport](https://github.com/altuntasfatih/exercism-elixir/tree/master/new-passport)
  * [Nth-prime](https://github.com/altuntasfatih/exercism-elixir/tree/master/nth-prime)
  * [Name-badge](https://github.com/altuntasfatih/exercism-elixir/tree/master/name-badge)
  * [Nucleotide-count](https://github.com/altuntasfatih/exercism-elixir/tree/master/nucleotide-count)
