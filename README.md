@@ -31,6 +31,7 @@ Exercises
  * [Crypto-square](https://github.com/altuntasfatih/exercism-elixir/tree/master/crypto-square)
  * [Custom-set](https://github.com/altuntasfatih/exercism-elixir/tree/master/custom-set)
  * [Date-parser](https://github.com/altuntasfatih/exercism-elixir/tree/master/date-parser)
+ * [Dancing-dots](https://github.com/altuntasfatih/exercism-elixir/tree/master/dancing-dots)
  * [Diamond](https://github.com/altuntasfatih/exercism-elixir/tree/master/diamond)
  * [Diffie-hellman](https://github.com/altuntasfatih/exercism-elixir/tree/master/diffie-hellman)
  * [Dna-encoding](https://github.com/altuntasfatih/exercism-elixir/tree/master/dna-encoding)
