@@ -116,6 +116,7 @@ Exercises
  * [Sublist](https://github.com/altuntasfatih/exercism-elixir/tree/master/sublist)
  * [Sum-of-multiples](https://github.com/altuntasfatih/exercism-elixir/tree/master/sum-of-multiples)
  * [Take-a-number](https://github.com/altuntasfatih/exercism-elixir/tree/master/take-a-number)
+ * [Take-a-number-deluxe](https://github.com/altuntasfatih/exercism-elixir/tree/master/take-a-number-deluxe)
  * [Top-secret](https://github.com/altuntasfatih/exercism-elixir/tree/master/top-secret)
  * [Tournament](https://github.com/altuntasfatih/exercism-elixir/tree/master/tournament)
  * [Triangle](https://github.com/altuntasfatih/exercism-elixir/tree/master/triangle)
