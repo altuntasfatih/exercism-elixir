@@ -62,6 +62,7 @@ Exercises
  * [Library-fees](https://github.com/altuntasfatih/exercism-elixir/tree/master/library-fees) 
  * [Lucas-numbers](https://github.com/altuntasfatih/exercism-elixir/tree/master/lucas-number) 
  * [Log-level](https://github.com/altuntasfatih/exercism-elixir/tree/master/log-level) 
+ * [Log-parser](https://github.com/altuntasfatih/exercism-elixir/tree/master/log-parser) 
  * [K-fees](https://github.com/altuntasfatih/exercism-elixir/tree/master/library-fees) 
  * [Luhn](https://github.com/altuntasfatih/exercism-elixir/tree/master/luhn)
  * [Markdown](https://github.com/altuntasfatih/exercism-elixir/tree/master/markdown) 
