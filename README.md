@@ -52,6 +52,7 @@ Exercises
  * [Hexadecimal](https://github.com/altuntasfatih/exercism-elixir/tree/master/hexadecimal)
  * [High-school-sweetheart](https://github.com/altuntasfatih/exercism-elixir/tree/master/high-school-sweetheart)
  * [High-score](https://github.com/altuntasfatih/exercism-elixir/tree/master/high-score)
+ * [House](https://github.com/altuntasfatih/exercism-elixir/tree/master/house) 
  * [Isbn-verifier](https://github.com/altuntasfatih/exercism-elixir/tree/master/isbn-verifier) 
  * [Isogram](https://github.com/altuntasfatih/exercism-elixir/tree/master/isogram) 
  * [Kitchen-calculator](https://github.com/altuntasfatih/exercism-elixir/tree/master/kitchen-calculator)
