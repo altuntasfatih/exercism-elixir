@@ -95,6 +95,7 @@ Exercises
  * [Remote-control-car](https://github.com/altuntasfatih/exercism-elixir/tree/master/remote-control-car)
  * [Rpg-character-sheet](https://github.com/altuntasfatih/exercism-elixir/tree/master/rpg-character-sheet)
  * [Resistor-color](https://github.com/altuntasfatih/exercism-elixir/tree/master/resistor-color)
+ * [Resistor-color-duo](https://github.com/altuntasfatih/exercism-elixir/tree/master/resistor-color-duo)
  * [Rna-transcription](https://github.com/altuntasfatih/exercism-elixir/tree/master/rna-transcription)
  * [Robot-simulator](https://github.com/altuntasfatih/exercism-elixir/tree/master/robot-simulator)
  * [Roman-numerals](https://github.com/altuntasfatih/exercism-elixir/tree/master/roman-numerals)
