@@ -90,6 +90,7 @@ Exercises
  * [Poker](https://github.com/altuntasfatih/exercism-elixir/tree/master/poker)
  * [Prime-factors](https://github.com/altuntasfatih/exercism-elixir/tree/master/prime-factors)
  * [Protein-translation](https://github.com/altuntasfatih/exercism-elixir/tree/master/protein-translation)
+ * [Proverb](https://github.com/altuntasfatih/exercism-elixir/tree/master/proverb)
  * [Queen-attack](https://github.com/altuntasfatih/exercism-elixir/tree/master/Queen-attack)
  * [Rail-fence-cipher](https://github.com/altuntasfatih/exercism-elixir/tree/master/rail-fence-cipher)
  * [Raindrops](https://github.com/altuntasfatih/exercism-elixir/tree/master/raindrops)
