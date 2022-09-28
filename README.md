@@ -98,6 +98,7 @@ Exercises
  * [Rpg-character-sheet](https://github.com/altuntasfatih/exercism-elixir/tree/master/rpg-character-sheet)
  * [Resistor-color](https://github.com/altuntasfatih/exercism-elixir/tree/master/resistor-color)
  * [Resistor-color-duo](https://github.com/altuntasfatih/exercism-elixir/tree/master/resistor-color-duo)
+ * [Resistor-color-trie](https://github.com/altuntasfatih/exercism-elixir/tree/master/resistor-color-trio)
  * [Rna-transcription](https://github.com/altuntasfatih/exercism-elixir/tree/master/rna-transcription)
  * [Robot-simulator](https://github.com/altuntasfatih/exercism-elixir/tree/master/robot-simulator)
  * [Roman-numerals](https://github.com/altuntasfatih/exercism-elixir/tree/master/roman-numerals)
