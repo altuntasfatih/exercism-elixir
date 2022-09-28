@@ -30,6 +30,7 @@ Exercises
  * [Community-garden](https://github.com/altuntasfatih/exercism-elixir/tree/master/community-garden)
  * [Crypto-square](https://github.com/altuntasfatih/exercism-elixir/tree/master/crypto-square)
  * [Custom-set](https://github.com/altuntasfatih/exercism-elixir/tree/master/custom-set)
+ * [Complex-number](https://github.com/altuntasfatih/exercism-elixir/tree/master/complex-number)
  * [Date-parser](https://github.com/altuntasfatih/exercism-elixir/tree/master/date-parser)
  * [Date-parser](https://github.com/altuntasfatih/exercism-elixir/tree/master/date-parser)
  * [Darts](https://github.com/altuntasfatih/exercism-elixir/tree/master/darts)
