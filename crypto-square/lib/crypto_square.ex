@@ -16,12 +16,12 @@ defmodule CryptoSquare do
     c = :math.sqrt(length) |> Float.ceil() |> trunc
     r = :math.sqrt(length) |> Float.floor() |> trunc
 
-    folding_part = List.duplicate(" ", c * r - length)
+    folding_part = List.duplicate(" ", abs(c * r - length))
 
     String.graphemes(clear_string)
     |> Enum.chunk_every(c, c, folding_part)
-    |> Enum.flat_map(&Enum.with_index(&1))
+    |> Enum.flat_map(&Enum.with_index/1)
     |> Enum.reduce(%{}, fn {v, k}, acc -> Map.update(acc, k, v, fn e -> e <> v end) end)
-    |> Enum.map_join(" ", fn {_, v} -> String.trim(v) end)
+    |> Enum.map_join(" ", fn {_, v} -> v end)
   end
 end
