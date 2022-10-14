@@ -7,42 +7,21 @@ defmodule CryptoSquare do
     "ac bd"
   """
   @spec encode(String.t()) :: String.t()
-  def encode(str) do
-    str
-    |> String.downcase()
-    |> String.replace(~r[\s*], "")
-    |> String.replace(~r[^\w\s], "")
-    |> transform_rectangle()
-  end
+  def encode(""), do: ""
 
-  def transform_rectangle(str) do
-    length = String.length(str)
+  def encode(str) do
+    clear_string = String.downcase(str) |> String.replace(~r/[\s]|[\W]/, "")
+
+    length = String.length(clear_string)
     c = :math.sqrt(length) |> Float.ceil() |> trunc
     r = :math.sqrt(length) |> Float.floor() |> trunc
 
-    Enum.to_list(1..r)
-    |> Enum.reduce(%{}, fn x, acc ->
-      Map.put(acc, x, create_map(c))
-    end)
-  end
+    folding_part = List.duplicate(" ", c * r - length)
 
-  defp create_map(size) do
-    Enum.to_list(0..(size - 1))
-    |> Enum.reduce(%{}, fn x, acc ->
-      Map.put(acc, x, nil)
-    end)
-  end
-
-  def get_column(index, size, str) do
-    String.codepoints(str)
-    |> Enum.with_index()
-    |> Enum.filter(fn {_, i} ->
-      cond do
-        i == index -> true
-        rem(i - index, size) == 0 -> true
-        true -> false
-      end
-    end)
-    |> Enum.map(fn {s, _} -> s end)
+    String.graphemes(clear_string)
+    |> Enum.chunk_every(c, c, folding_part)
+    |> Enum.flat_map(&Enum.with_index(&1))
+    |> Enum.reduce(%{}, fn {v, k}, acc -> Map.update(acc, k, v, fn e -> e <> v end) end)
+    |> Enum.map_join(" ", fn {_, v} -> String.trim(v) end)
   end
 end
