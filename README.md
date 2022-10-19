@@ -36,6 +36,7 @@ Exercises
  * [Darts](https://github.com/altuntasfatih/exercism-elixir/tree/master/darts)
  * [Diamond](https://github.com/altuntasfatih/exercism-elixir/tree/master/diamond)
  * [Diffie-hellman](https://github.com/altuntasfatih/exercism-elixir/tree/master/diffie-hellman)
+ * [Difference-of-squares](https://github.com/altuntasfatih/exercism-elixir/tree/master/difference-of-squares)
  * [Dna-encoding](https://github.com/altuntasfatih/exercism-elixir/tree/master/dna-encoding)
  * [Dnd-character](https://github.com/altuntasfatih/exercism-elixir/tree/master/Dnd-character)
  * [Etl](https://github.com/altuntasfatih/exercism-elixir/tree/master/etl)
