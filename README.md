@@ -21,6 +21,7 @@ Exercises
  * [Boutique-suggestions/](https://github.com/altuntasfatih/exercism-elixir/tree/master/boutique-suggestions)
  * [Bowling](https://github.com/altuntasfatih/exercism-elixir/tree/master/bowling)
  * [Bread-and-potions](https://github.com/altuntasfatih/exercism-elixir/tree/master/bread-and-potions)
+ * [Bottle-song](https://github.com/altuntasfatih/exercism-elixir/tree/master/bottle-song)
  * [Captains-log](https://github.com/altuntasfatih/exercism-elixir/tree/master/captains-log)
  * [Change](https://github.com/altuntasfatih/exercism-elixir/tree/master/change)
  * [Chessboard](https://github.com/altuntasfatih/exercism-elixir/tree/master/chessboard)
